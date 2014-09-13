@@ -1,0 +1,8 @@
+Since our algorith require an schedule as an input, 
+
+input file 'fork-join-complete' is lightly modified to accomade this
+IT IS ASSUMED THAT A SCHEDULE WILL BE GIVEN AS INPUT.
+
+please read the sample input file 'fork-join-complete'
+
+NOTE: makefile is also uploaded with it. use it to complie and run code
